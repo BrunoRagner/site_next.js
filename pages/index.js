@@ -11,7 +11,7 @@ function Home() {
                 <meta name="author" content="Cesar - Celke" />
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
-                <title>Celke - Home</title>
+                <title>Eletry - Home</title>
             </Head>
             <Menu />
 

@@ -7,7 +7,7 @@
     text-decoration: none;
 }
 body{
-    background-color: #0a0e17;
+    background-color: #5380e7;
 }
 .max-width{
     max-width: 1300px;
@@ -25,7 +25,7 @@ body{
     z-index: 999;
     padding: 20px 0;
     font-family: 'Ubuntu', sans-serif;
-    background-color: #141b2971;
+    background-color: #141b29;
     border-bottom: solid #1b202a 1px;
 }
 .navbar .max-width{
