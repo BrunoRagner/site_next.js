@@ -15,4 +15,4 @@ Criar o projeto com Next.js
 ### npm install next react react-dom
 
 Rodar o projeto
-### npm run dev
+### npm run dev# site_next.js
