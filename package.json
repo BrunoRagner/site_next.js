@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+  "build": "next build",
+  "start": "next start -p $PORT",
+  "dev": "next"
   },
   "author": "",
   "license": "ISC",
