@@ -19,10 +19,10 @@ function Home() {
                 <div className="max-width">
                     <div className="top-content">
                         <div className="text-1">
-                            Temos a solução
+                            Temos a solução em analise de dados!
                         </div>
                         <div className="text-2">
-                            que a sua empresa precisa.
+                            que a sua empresa precisa
                         </div>
                         <div className="text-3">
                             Podemos ajudar a sua empresa!
